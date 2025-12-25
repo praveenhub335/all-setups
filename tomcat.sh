@@ -10,5 +10,3 @@ sed -i '21d' apache-tomcat-9.0.106/webapps/manager/META-INF/context.xml
 sed -i '22d'  apache-tomcat-9.0.106/webapps/manager/META-INF/context.xml
 sh apache-tomcat-9.0.106/bin/startup.sh
 
-### praveen added changes####
-
